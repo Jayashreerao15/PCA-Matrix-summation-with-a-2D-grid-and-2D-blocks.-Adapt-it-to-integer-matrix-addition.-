@@ -19,7 +19,7 @@ Step 7 : Finally Free device global memory,host memory and reset device.
 
 Step 8 : Save and Run the Program.
 ## Program:
-```
+```C
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
